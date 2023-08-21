@@ -3,4 +3,6 @@
 *.js linguist-detectable=false
 *.java linguist-detectable=false
 *.dart linguist-detectable=true
+* linguist-vendored
+
 
