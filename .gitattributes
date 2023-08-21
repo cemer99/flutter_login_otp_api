@@ -1,8 +1,3 @@
-*.csharp linguist-detectable=false
-*.css linguist-detectable=false
-*.js linguist-detectable=false
-*.java linguist-detectable=false
-*.dart linguist-detectable=true
 * linguist-vendored
-
+*.dart linguist-vendored=false
 
